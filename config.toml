@@ -1,0 +1,12 @@
+baseurl = "https://sahinkureta.com"
+title = "Sahin Kureta - composer"
+author = "Sahin Kureta"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+publishDir = "/home/kureta/srv/sahinkureta.com"
+
+[params]
+brand = "kureta"
+description = "A composer from Istanbul"
+bgimg = "img/ignasi_pattern_s.png"
